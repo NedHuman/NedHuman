@@ -2,7 +2,8 @@
 
 what should I write here
 
-![yes](https://media.tenor.com/5CnWiBcJta4AAAPo/angry-cat-firebreathing.mp4)
+![angry-cat-firebreathing](https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c)
+
 
 
 ### languages
