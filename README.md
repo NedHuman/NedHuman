@@ -2,7 +2,7 @@
 
 what should I write here
 
-![image](https://github.com/user-attachments/assets/611ca03c-ceb4-4ec4-bee1-2c6c8a4377cc)
+![gif](https://tenor.com/view/angry-cat-firebreathing-gif-10367304)
 
 
 ### languages
