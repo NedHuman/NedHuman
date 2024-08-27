@@ -2,11 +2,9 @@
 
 what should I write here
 
-<div align="center">
-  <img src="https://tenor.com/view/angry-cat-firebreathing-gif-10367304">
-</div>
+![yes](https://tenor.com/view/angry-cat-firebreathing-gif-10367304)
 
-###languages
+### languages
 * java
 * golang
 * C
