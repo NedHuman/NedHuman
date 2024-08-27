@@ -1,16 +1,14 @@
-## Hi there 👋
+# hi
 
-<!--
-**NedHuman/NedHuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+what should I write here
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://tenor.com/view/angry-cat-firebreathing-gif-10367304">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###languages
+* java
+* golang
+* C
+* python
+* lua(ish)
