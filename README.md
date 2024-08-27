@@ -15,7 +15,6 @@
 * admin on [he's smp](https://heesesmp.com)
 
 <br>
-<br>
 
 ##
 <img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
