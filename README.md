@@ -13,27 +13,4 @@
 
 ### other stuff
 * admin on [he's smp](https://heesesmp.com)
-
-<br>
-
-##
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="left" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
-<img align="right" src="https://github.com/user-attachments/assets/b340ffa6-c8ad-49f7-982a-5bcc748ee81c">
+* Made [Githis Discord Bot](https://discord.com/oauth2/authorize?client_id=1236612862236033055), add it to ur server
