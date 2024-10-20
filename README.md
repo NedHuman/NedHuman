@@ -1,7 +1,6 @@
 # hi i'm nedhuman
 
-<img align="right" src="https://github.com/user-attachments/assets/946a16d0-f5e2-4744-aae2-1026cb82c1d4">
-
+<img align="right" width="350" height="430" src="https://github.com/user-attachments/assets/fb23fe9f-a8c4-461b-a182-a1e905fd073a">
 
 ### languages
 
