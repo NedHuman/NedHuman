@@ -10,6 +10,6 @@
 * python
 * lua(ish)
 
-### other stuff
+### other stuff I did
 * admin on [he's smp](https://heesesmp.com)
 * Made [Githis Discord Bot](https://discord.com/oauth2/authorize?client_id=1236612862236033055), add it to ur server
